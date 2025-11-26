@@ -1,1 +1,0 @@
-{"name":"Local: pp","url":"c:\\Users\\Lucas Alcoba\\Documents\\1.-PrograCompetitiva\\0.-Ejercicios\\pp.cpp","tests":[{"id":1751611760996,"input":"1\n4\n7 1 7 7\n","output":"NO\nYES\n4\n4 5 2 4\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Lucas Alcoba\\Documents\\1.-PrograCompetitiva\\0.-Ejercicios\\pp.cpp","group":"local","local":true}
